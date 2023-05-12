@@ -37,6 +37,12 @@ https://www.youtube.com/playlist?list=PL_3a5GrRZB88BoMqcgXh_1izFFnKW4l41
 ---
 الـfind بتدور علي element بيجتاز اختبار معين موجود في الـcallbackFunction وبتوقف الـloop علي باقي الـarray  ولو ملقتوش أو الـarray فاضية بـتريتيرن undefined
 الـfindindex بتدور علي الـindex  الخاص ال بيجتاز الاختبار الموجود في الـcallbackFunction وبتريترن سالب واحد
+#front_end
+#react_js
+#javascript
+#رياكت_جي_اس
+#فرونت_اند
+#جافاسكريبت
 
 
 
